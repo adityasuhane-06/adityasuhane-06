@@ -234,12 +234,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasuhane-06&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasuhane-06&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasuhane-06&show_icons=true&theme=radical&hide_border=true&v=2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasuhane-06&layout=compact&theme=radical&hide_border=true&langs_count=8&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasuhane-06&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=adityasuhane-06&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -247,6 +247,7 @@
 </p>
 
 ---
+
 
 ## 💻 Competitive Programming
 
@@ -277,8 +278,8 @@
 
 | 💼 Role | 🏢 Organization | 📅 Timeline |
 |:---|:---|:---:|
-| **Virtual Engineering Intern** | [Skyscanner (Forage)](https://www.theforage.com) | May 2025 |
-| **Virtual Data Science Intern** | [CodersCave (AICTE)](https://www.coderscave.in) | Sep 2023 - Oct 2023 |
+| **Virtual Engineering Intern** | [Skyscanner (Forage)] | May 2025 |
+| **Virtual Data Science Intern** | [CodersCave (AICTE)] | Sep 2023 - Oct 2023 |
 
 **Key Highlights:**
 - 🔧 Microservice design & architecture for 1M+ record search systems
