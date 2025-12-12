@@ -102,11 +102,7 @@
 
 ## 🏆 Achievements & Recognition
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityasuhane-06&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
-
-- 🥇 **Meta Hacker Cup 2024** - Global Rank **3,232** among thousands
+- 🥇 ## Meta Hacker Cup 2024 - Global Rank **3,232** among thousands
 - 🥇 **TCS CodeVita 2024** - Top **0.5%** (986 out of 200,000+ participants)
 - 🏅 **Codeforces** - Pupil (1250 rating) | **200+ Problems** Solved
 - 📜 **Software Copyright (Govt. of India)** - "Sign Sarthi" (Reg. No. **SW-20272/2025**)
