@@ -2,7 +2,7 @@
 
 **AI/ML Engineer | Full-Stack Developer | Competitive Programmer**
 
-🎓 B.Tech in Computer Science (Data Science) @ Gyan Ganga Institute of Technology  
+🎓 B.Tech in Computer Science (Data Science) @ Gyan Ganga Institute of Technology and Sciences
 📍 Jabalpur, Madhya Pradesh, India  
 🔗 [Portfolio](https://adityasuhane-06.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/aditya-suhane-530103255/) • [LeetCode](https://leetcode.com/u/adityasuhane06/) • [Codeforces](https://codeforces.com/profile/Quasar01)
 
