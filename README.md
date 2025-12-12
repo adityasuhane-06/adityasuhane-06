@@ -228,20 +228,17 @@
 ---
 
 ## 📊 GitHub Statistics
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityasuhane-06&theme=monokai">
-  </a>
-</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasuhane-06&show_icons=true&theme=react&hide_border=true&rank_icon=github&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasuhane-06&layout=compact&theme=react&hide_border=true&langs_count=8" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasuhane-06&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="900" height="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityasuhane-06&theme=monokai">
+  </a>
 </p>
+
 
 ---
 
