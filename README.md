@@ -246,9 +246,6 @@
 
 ## 💻 Competitive Programming
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/adityasuhane06?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-</p>
 
 ```text
 📈 Codeforces Rating: 1250 (Pupil) ⭐
