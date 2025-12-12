@@ -229,8 +229,6 @@
 
 </details>
 
----
-
 <p align="center">
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api?username=adityasuhane-06&show_icons=true&theme=react&hide_border=true&include_all_commits=true&v=2" />
@@ -245,7 +243,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasuhane-06&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
-
 
 
 
