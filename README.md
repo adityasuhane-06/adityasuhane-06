@@ -231,11 +231,11 @@
 
 ---
 
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasuhane-06&show_icons=true&theme=react&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasuhane-06&layout=compact&theme=react&hide_border=true&langs_count=8" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=adityasuhane-06&show_icons=true&theme=react&hide_border=true&include_all_commits=true&v=2" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasuhane-06&layout=compact&theme=react&hide_border=true&langs_count=8&v=2" />
 </p>
 
 <p align="center">
@@ -246,7 +246,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasuhane-06&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
----
 
 
 
