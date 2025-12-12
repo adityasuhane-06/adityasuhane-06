@@ -17,7 +17,7 @@
 📍 Gyan Ganga Institute of Technology and Sciences  
 🌍 Jabalpur, Madhya Pradesh, India  
 📧 adityasuhane01@gmail.com  
-📱 +91-7869366189
+
 
 <br/>
 
