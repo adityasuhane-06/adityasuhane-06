@@ -228,6 +228,11 @@
 ---
 
 ## 📊 GitHub Statistics
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmRitJain0442&theme=monokai">
+  </a>
+</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasuhane-06&show_icons=true&theme=react&hide_border=true&rank_icon=github&include_all_commits=true" />
@@ -338,9 +343,11 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/adityasuhane-06/adityasuhane-06/output/github-contribution-grid-snake-dark.svg)
+### 🐍 Contribution
+<div align="left">
+  <h2>Contribution Chart</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArshSSandhu/ArshSSandhu/output/github-contribution-grid-snake.svg" />
 
 </div>
 
