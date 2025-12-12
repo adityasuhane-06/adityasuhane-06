@@ -340,7 +340,6 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 Contribution
 <div align="center">
   <h2>Contribution Chart</h2>
   <br>
