@@ -1,258 +1,377 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+  𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐀𝐝𝐢𝐭𝐲𝐚 𝐒𝐮𝐡𝐚𝐧𝐞
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 </h1>
 
-<br/>
-<br/>
-
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
-
-
-- 🔭 I’m currently working on **GRANTHAGRA-'Android Application for Students.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **GoLang 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, Design or DevOps .**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/GovindSingh9447/GovindSingh9447/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
-
-<br/>
-<br/>
-
-
-
-
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=GovindSingh9447&style=flat&color=blue"> •   
-  <a href="https://user-badge.committers.top/india_private/GovindSingh9447"><img src="https://user-badge.committers.top/india_private/GovindSingh9447.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/GovindSingh9447?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/GovindSingh9447?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Competitive+Programmer+%7C+Problem+Solver;Government+Copyright+Holder;50%2B+Hackathons+Participant" alt="Typing SVG" />
 </p>
 
-
-#
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=GovindSingh9447&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+<br/>
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+  <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" />
+  
+🎓 **B.Tech in Computer Science (Data Science)**  
+📍 Gyan Ganga Institute of Technology and Sciences  
+🌍 Jabalpur, Madhya Pradesh, India  
+📧 adityasuhane01@gmail.com  
+📱 +91-7869366189
+
+<br/>
+
+- 🔭 Currently working on **AI-Powered Enterprise Systems**
+- 🌱 Exploring **LLM Fine-Tuning & Microservices**
+- 🏆 **Meta Hacker Cup** Global Rank 3,232
+- 📜 **Government of India Copyright** Holder
+- 🎯 **50+ Hackathons** Participant
+- 💡 Open to **AI/ML & Full-Stack** collaborations
+- ⚡ Fun fact: **Best code is written at 3 AM!**
+
 </p>
 
-#
-
-
-
-
-
-
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
-
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-<br/>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://miro.medium.com/max/1400/1*UBZYjKJigowCJOK4SaHicw.jpeg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-#
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
-
-<br/>
-
-#
-
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
+<br clear="right"/>
 
 <p align="center">
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GovindSingh9447&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSingh9447&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=adityasuhane-06&style=flat&color=blue" alt="Profile Views"> •
+  <img src="https://img.shields.io/github/followers/adityasuhane-06?label=Followers&style=social" alt="GitHub Followers"> •
+  <img src="https://img.shields.io/github/stars/adityasuhane-06?label=Stars&style=social" alt="Total Stars">
 </p>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,express,fastapi,flask" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,postgres,mysql,aws,azure,docker,kubernetes,git" />
+</p>
+
+<details>
+<summary><b>🔥 More Technologies</b></summary>
+<br/>
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+**AI/ML & Data Science:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Full-Stack Development:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
+
 </details>
-<br>
 
+---
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+## 🏆 Achievements & Recognition
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityasuhane-06&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</p>
 
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+- 🥇 **Meta Hacker Cup 2024** - Global Rank **3,232** among thousands
+- 🥇 **TCS CodeVita 2024** - Top **0.5%** (986 out of 200,000+ participants)
+- 🏅 **Codeforces** - Pupil (1250 rating) | **200+ Problems** Solved
+- 📜 **Software Copyright (Govt. of India)** - "Sign Sarthi" (Reg. No. **SW-20272/2025**)
+- 🎯 **Eureka (IIT Bombay)** - Semifinalist | Top **50** out of 1,500+ teams
+- 🎪 **50+ Hackathons** Participation - Multiple wins and recognitions
+- 🌟 **Skyscanner Virtual Program** - Engineering Excellence
+- 💼 **CodersCave (AICTE)** - Data Science Intern
 
-</h4>  
-  
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
+---
 
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌾 [Project Samarth](https://project-samarth-beta.vercel.app/)
+**AI-Powered Agricultural Data Q&A System**
+
+![Project Samarth](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+
+- ⚡ **135× Performance** improvement (13s → 0.1s)
+- 🤖 Dual-LLM architecture with **Gemini 2.5-flash**
+- 📊 Processing **123 years** of data across 5 APIs
+- 🗄️ Smart MongoDB caching with TTL strategy
+- 🏗️ **8 microservices**, 1,300+ LOC, full CI/CD
+
+**Tech:** Python, FastAPI, MongoDB Atlas, React 18
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/adityasuhane-06/project-samarth)
+
+</td>
+<td width="50%">
+
+### 📝 [Vibe Page](https://vibe-page.vercel.app/)
+**Full-Stack Blogging Platform**
+
+![Vibe Page](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+
+- 🚀 Scalable **MERN Stack** architecture
+- 🔒 JWT auth & bcrypt security hardening
+- 📦 Azure Blob Storage for media
+- ⚡ **Sub-200ms p95** API latency
+- 📱 **92+ Lighthouse** score (mobile-first)
+- ❤️ Real-time likes, comments, bookmarks
+
+**Tech:** React, Redux, Node.js, Express, MongoDB
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/adityasuhane-06/VibePage)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤟 [Sign Sarthi](https://huggingface.co/spaces/adityasuhane01/ISL)
+**Real-Time ISL Translator**
+
+![Sign Sarthi](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+![Copyright](https://img.shields.io/badge/Copyright-Govt._of_India-orange?style=for-the-badge)
+
+- 📜 **Government Copyright** Holder
+- 🎯 **97.5% test accuracy** on 8,000+ frames
+- ⚡ **Sub-100ms** real-time inference
+- 🌐 **7 Indian languages** support
+- 🧠 CNN + LSTM architecture
+- 📹 Live webcam integration
+
+**Tech:** TensorFlow, Keras, OpenCV, MediaPipe
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/adityasuhane-06/ISL)
+
+</td>
+<td width="50%">
+
+### 🔬 Medical AI Platform
+**Malaria Detection System**
+
+![Medical AI](https://img.shields.io/badge/Status-Production-success?style=for-the-badge)
+
+- 🎯 **96%+ accuracy** on blood smear analysis
+- 🏥 Clinical-grade CNN model
+- ☁️ Cloud-based inference (Flask REST API)
+- 📊 Prediction history & analytics
+- 🔄 Complete ML pipeline (train → deploy)
+- 🚀 Real-time image processing
+
+**Tech:** TensorFlow, Keras, Flask, OpenCV
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/adityasuhane-06)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🚀 More Projects</b></summary>
 <br/>
 
+### 📰 [Diversify News Sentiment API](https://github.com/adityasuhane-06/Diversifi)
+**FinTech GenAI Application**
+- Real-time sentiment analysis for stock news using Gemini 1.5-flash
+- PostgreSQL intelligent caching for cost optimization
+- 93.5% dependency reduction for reliability
+- EventRegistry API integration
 
+### 🤖 [Wall Robot Backend](https://github.com/adityasuhane-06/wall_robot_backend)
+**Autonomous Path Planning System**
+- FastAPI backend for wall-painting robot
+- Boustrophedon (zigzag) algorithm implementation
+- Real-time collision detection & obstacle avoidance
+- Complete wall coverage guarantee
 
+### 🏆 Amazon ML Challenge 2025
+**Smart Product Pricing System**
+- 300+ advanced feature engineering techniques
+- Multi-Model Ensemble (LightGBM, XGBoost, CatBoost)
+- Achieved competitive SMAPE of **20.57%**
+- Ultra-Advanced IPQ Detection & Value Parsing
 
+</details>
 
-#
+---
 
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasuhane-06&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasuhane-06&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+</p>
 
-<br>
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasuhane-06&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<!--START_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasuhane-06&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
+---
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
+## 💻 Competitive Programming
 
-
-**🐱 My Github Data** 
-
-> 🏆 590 Contributions in the Year 2023
- > 
-> 📦 9.1 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 82 Public Repositories 
- > 
-> 🔑 124 Private Repositories  
- > 
-**I'm a Night 🦉** 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adityasuhane06?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
 
 ```text
-🌞 Morning    93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-🌆 Daytime    274 commits    ██████░░░░░░░░░░░░░░░░░░░   27.16% 
-🌃 Evening    396 commits    █████████░░░░░░░░░░░░░░░░   39.25% 
-🌙 Night      246 commits    ██████░░░░░░░░░░░░░░░░░░░   24.38%
-
+📈 Codeforces Rating: 1250 (Pupil) ⭐
+🔥 Total Problems Solved: 200+ 🎯
+⚡ Meta Hacker Cup: Global Rank 3,232 🏆
+🏆 TCS CodeVita: Top 0.5% (986/200,000+) 🥇
+💡 Active on: LeetCode | Codeforces | HackerRank
 ```
 
-
-<br> <br>
-
-## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
-
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-| Cloud DevOps Engineer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Present |
-| Open source mentor | [GSsoC](https://gssoc.girlscript.tech/) | Mar 2022 - May 2022 |
-| Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
-| Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
-| Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
-
-
-
-
-
- Last Updated on 20/04/2024
-<!--END_SECTION:waka-->
-
-
 <p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
-
-#
-
-
-
-<h1>
-  Connect With Me
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  <a href="https://leetcode.com/u/adityasuhane06/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
-  </a>
-  
-  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-  </a>
-    
-</p>
-<br/>
-
-
-
-<br/>
-<br/>
-
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
+  <a href="https://codeforces.com/profile/Quasar01">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
 
+---
+
+## 💼 Experience
+
+| 💼 Role | 🏢 Organization | 📅 Timeline |
+|:---|:---|:---:|
+| **Virtual Engineering Intern** | [Skyscanner (Forage)](https://www.theforage.com) | May 2025 |
+| **Virtual Data Science Intern** | [CodersCave (AICTE)](https://www.coderscave.in) | Sep 2023 - Oct 2023 |
+
+**Key Highlights:**
+- 🔧 Microservice design & architecture for 1M+ record search systems
+- 📊 Processed datasets of 500k+ rows delivering actionable insights
+- 🚀 ML models with 15% accuracy improvement over baseline
+- 📈 Dashboards reducing reporting time by 40%
+
+---
+
+<h4 align="center">
+
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@                                                              @@
+@@       o o                                                    @@
+@@       | |                                                    @@
+@@      _L_L_                                                   @@
+@@   ❮\/__-__\/❯   Programming isn't about what you know       @@
+@@   ❮(|~o.o~|)❯   It's about what you can figure out          @@
+@@   ❮/ \`-'/ \❯                                               @@
+@@     _/`U'\_                                                  @@
+@@    ( .   . )      .----------------------------.             @@
+@@   / /     \ \     |  while( !(succeed=try()) ) |             @@
+@@   \ |  ,  | /     '----------------------------'             @@
+@@    \|=====|/                                                 @@
+@@     |_.^._|                                                  @@
+@@     | |"| |      "First, solve the problem.                 @@
+@@     ( ) ( )       Then, write the code."                     @@
+@@     |_| |_|                    - John Johnson                @@
+@@ _.-' _j L_ '-._                                              @@
+@@(___.'     '.___)                                             @@
+@@                                                              @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</h4>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://adityasuhane-06.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-suhane-530103255/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/adityasuhane-06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/adityasuhane06/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/Quasar01">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="mailto:adityasuhane01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### 💡 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/adityasuhane-06/adityasuhane-06/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-#
+---
 
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+<div align="center">
 
+### ⭐ Show some love by starring some repositories!
 
------
-**Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
+**"Building intelligent systems that make a difference, one commit at a time."**
 
-**Last Edited on**: 20/04/2024
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
+
+---
+
+<p align="center">
+  <i>Last updated: December 2025</i>
+  <br/>
+  <i>Open to collaborations and exciting opportunities!</i>
+</p>
