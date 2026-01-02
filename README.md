@@ -119,21 +119,24 @@
 <tr>
 <td width="50%">
 
-### 🌾 [Project Samarth](https://project-samarth-beta.vercel.app/)
-**AI-Powered Agricultural Data Q&A System**
+### 🌾 [Project Samarth](https://project-samarth-frontend.vercel.app/)
+**Intelligent Agricultural Data Q&A System**
 
 ![Project Samarth](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-8E44AD?style=flat)
+![RAG](https://img.shields.io/badge/RAG-ChromaDB-FF6584?style=flat)
 
-- ⚡ **135× Performance** improvement (13s → 0.1s)
-- 🤖 Dual-LLM architecture with **Gemini 2.5-flash**
-- 📊 Processing **123 years** of data across 5 APIs
-- 🗄️ Smart MongoDB caching with TTL strategy
-- 🏗️ **8 microservices**, 1,300+ LOC, full CI/CD
+- 🤖 **LangGraph agentic AI** with 5 autonomous tools
+- 🎯 **Zero hallucinations** via intelligent force-routing
+- 📚 **RAG-powered** with 100+ agricultural documents
+- ⚡ **30-40× faster** with MongoDB caching (3-5s → 0.1s)
+- 📊 Processing **125 years** of data (1901-2025)
+- 🏗️ **10 microservices**, 2,500+ LOC, production-ready
 
-**Tech:** Python, FastAPI, MongoDB Atlas, React 18
+**Tech:** Python, FastAPI, LangGraph, ChromaDB, MongoDB, React 18
 
 [![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/adityasuhane-06/project-samarth)
-
+[![Live Demo](https://img.shields.io/badge/Demo-Try_Now-success?style=flat)](https://project-samarth-frontend.vercel.app)
 </td>
 <td width="50%">
 
