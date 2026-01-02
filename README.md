@@ -118,7 +118,6 @@
 <table>
 <tr>
 <td width="50%">
-
 ### 🌾 [Project Samarth](https://project-samarth-frontend.vercel.app/)
 **Intelligent Agricultural Data Q&A System**
 
@@ -131,7 +130,7 @@
 - 📚 **RAG-powered** with 100+ agricultural documents
 - ⚡ **30-40× faster** with MongoDB caching (3-5s → 0.1s)
 - 📊 Processing **125 years** of data (1901-2025)
-- 🏗️ **10 microservices**, 2,500+ LOC, production-ready
+- 🏗️ **Modular architecture**, 10 Python modules, 2,500+ LOC
 
 **Tech:** Python, FastAPI, LangGraph, ChromaDB, MongoDB, React 18
 
