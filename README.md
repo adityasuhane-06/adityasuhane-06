@@ -118,8 +118,7 @@
 <table>
 <tr>
 <td width="50%">
-  
-### 🌾 [Project Samarth](https://project-samarth-beta.vercel.app/)
+  ### 🌾 [Project Samarth](https://project-samarth-beta.vercel.app/)
 **Intelligent Agricultural Data Q&A System**
 
 ![Project Samarth](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
