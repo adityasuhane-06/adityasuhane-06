@@ -127,7 +127,7 @@
 - 🤖 **LangGraph agentic AI** with 5 autonomous tools
 - 🎯 **Zero hallucinations** via intelligent force-routing
 - 📚 **RAG-powered** with 100+ agricultural documents
-- ⚡ **30-40× faster** with MongoDB caching (3-5s → 0.1s)
+- ⚡ **30-40× faster** with MongoDB caching
 - 📊 Processing **125 years** of data (1901-2025)
 - 🏗️ **Modular architecture**, 10 Python modules, 2,500+ LOC
 
