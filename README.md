@@ -129,8 +129,8 @@
 - 📚 **RAG-powered** with 100+ agricultural documents
 - ⚡ **30-40× faster** with MongoDB caching
 - 📊 Processing **125 years** of data (1901-2025)
-- 🏗️ **Modular architecture**, 10 Python modules, 2,500+ LOC
-
+- 🏗️ **Modular architecture**
+  
 **Tech:** Python, FastAPI, LangGraph, ChromaDB, MongoDB, React 18
 
 [![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/adityasuhane-06/project-samarth)
