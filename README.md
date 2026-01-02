@@ -117,6 +117,7 @@
 <table>
 <tr>
 <td width="50%">
+  
 ### 🌾 [Project Samarth](https://project-samarth-beta.vercel.app/)
 **Intelligent Agricultural Data Q&A System**
 
