@@ -117,7 +117,6 @@
 <table>
 <tr>
 <td width="50%">
-  
 ### 🌾 [Project Samarth](https://project-samarth-beta.vercel.app/)
 **Intelligent Agricultural Data Q&A System**
 
@@ -138,8 +137,6 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Try_Now-success?style=flat)](https://project-samarth-frontend.vercel.app)
 </td>
 <td width="50%">
-
-
 ### 📝 [Vibe Page](https://vibe-page.vercel.app/)
 **Full-Stack Blogging Platform**
 
