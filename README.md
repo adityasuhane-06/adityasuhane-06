@@ -21,11 +21,11 @@
 <br/>
 
 - 🔭 Currently working on **AI-Powered Enterprise Systems**
-- 🌱 Exploring **LLM Fine-Tuning & Microservices**
+- 🌱 Exploring **LLM Fine-Tuning**, Microservices & **Blockchain Development**
 - 🏆 **Meta Hacker Cup** Global Rank 3,232
 - 📜 **Government of India Copyright** Holder
 - 🎯 **50+ Hackathons** Participant
-- 💡 Open to **AI/ML & Full-Stack** collaborations
+- 💡 Open to **AI/ML, Blockchain & Full-Stack collaborations** collaborations
 - ⚡ Fun fact: **Best code is written at 3 AM!**
 
 </p>
