@@ -21,7 +21,7 @@
 <br/>
 
 - 🔭 Currently working on **AI-Powered Systems**
-- 🌱 Exploring **LLM Fine-Tuning**, Microservices and Agentic AI**
+- 🌱 Exploring **LLM Fine-Tuning**, **Agentic AI**, **Microservices** and **System Design** 
 - 🏆 **Meta Hacker Cup** Global Rank 3,232
 - 📜 **Government of India Copyright** Holder
 - 🎯 **50+ Hackathons** Participant
