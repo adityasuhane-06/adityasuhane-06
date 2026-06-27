@@ -20,12 +20,13 @@
 
 <br/>
 
-- 🔭 Currently working on **AI-Powered Systems**
-- 🌱 Exploring **LLM Fine-Tuning**, **Agentic AI**, **Microservices** and **System Design** 
-- 🏆 **Meta Hacker Cup** Global Rank 3,232
+- 🔭 Currently working on **AI-Powered Systems & Backend Development**
+- 🌱 Exploring **LLM Fine-Tuning**, **Agentic AI**, **Microservices** and **System Design**
+- 💻 Building with **FastAPI, Node.js, MongoDB, LangGraph, React**
+- 🏆 **Meta Hacker Cup** Global Rank 3,179 | **TCS CodeVita** Top 0.5% (Rank 986/200,000+)
 - 📜 **Government of India Copyright** Holder
 - 🎯 **50+ Hackathons** Participant
-- 💡 Open to **AI/ML & Full-Stack collaborations** collaborations
+- 💡 Open to **SDE, AI/ML & Full-Stack collaborations**
 - ⚡ Fun fact: **Best code is written at 3 AM!**
 
 </p>
