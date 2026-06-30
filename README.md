@@ -189,6 +189,51 @@
 </td>
 <td width="50%">
 
+
+### 🌍 [GalaxEye](https://eo-sardetection.vercel.app/)
+**EO-SAR Building Damage Detection**
+
+![GalaxEye](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+
+- 🛰️ EO-SAR satellite disaster assessment
+- 🏗️ Novel two-stage building-guided architecture
+- 📈 Improved IoU from **0.057 → 0.303 (5.3×)**
+- 🎯 Solved extreme 62.7:1 class imbalance
+- ⚡ End-to-end training on Kaggle T4 GPU
+- 🔬 Pixel-level binary change detection
+
+**Tech:** PyTorch, OpenCV, Albumentations
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/adityasuhane-06/GalaxEye)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 [Nexus Support AI](https://ai-support-system-three.vercel.app/)
+**Agentic Customer Support Automation**
+
+![Nexus Support AI](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+
+- 📧 AI-powered email triage pipeline
+- 🖼️ Gemini 2.5 Flash multimodal damage analysis
+- 🗄️ MongoDB order verification
+- 🌍 English & Arabic response generation
+- 🛡️ 10 deterministic business validation rules
+- ⚙️ Structured JSON workflow automation
+
+**Tech:** Python, FastAPI, Gemini 2.5 Flash, MongoDB
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/adityasuhane-06/AI-Support-System)
+
+</td>
+
+<td width="50%">
+  
 ### 🔬 Medical AI Platform
 **Malaria Detection System**
 
